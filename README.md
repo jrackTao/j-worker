@@ -2,7 +2,7 @@
 
 Web Worker Promise 化，自动销毁 worker，计算最优线程数（其实就 2 个方法）
 
-## 安装（Install）
+## 安装
 
 ```bash
 # npm
@@ -12,9 +12,9 @@ npm i @threeword/jui -S
 yarn add @threeword/jui
 ```
 
-## 讲解文档（Hello Web Worker）
+## 讲解文档
 
-![Hello Web Worker](http://weapp-54548.oss-cn-hangzhou.aliyuncs.com/gh_7c5d4cf235cb_430.jpg)
+[Hello Web Worker](https://blog.csdn.net/jt11166/article/details/110675501)
 
 ## 使用
 
