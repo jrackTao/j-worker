@@ -1,0 +1,21 @@
+{
+  "name": "@threeword/j-worker",
+  "version": "0.1.2",
+  "description": "async web worker",
+  "main": "./index.js",
+  "typings": "./types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrackTao/j-worker.git"
+  },
+  "keywords": ["javascript", "Web Worker"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrackTao/j-worker/issues"
+  },
+  "homepage": "https://github.com/jrackTao/j-worker#readme"
+}
